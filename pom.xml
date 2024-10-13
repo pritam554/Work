@@ -8,7 +8,7 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.pritam.dxc</groupId>
+	<groupId>in.pritam</groupId>
 	<artifactId>38_SB_REST_H2_DB_APP</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>38_SB_REST_H2_DB_APP</name>
