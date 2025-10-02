@@ -7,7 +7,7 @@ int b = 20;
   <a href="https://coderocksmania.blogspot.com/">Click Here To See my Blog</a>
   
   <h2> Location : Kanpur </h2>
-int a = 10;
+int a = 40;
 
 </body>
 </html>
